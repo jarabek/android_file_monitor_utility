@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="monitor_is">Monitor is: </string>
+    <string name="running">Running </string>
+    <string name="action_settings">Menu </string>
+    <string name="not_running">Not Running </string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="app_name">FileMonitor</string>
+    <string name="save_loc">Log saved in: </string>
+    <string name="watching">Directory to monitor:</string>
+    <string name="notification_short">Monitor Active</string>
+    <string name="notification_long">File monitor is watching your files</string>
+    <string name="toast_bad_dir"> is not a valid directory to monitor</string>
+    <string name="toast_service_error">Error writing output file </string>
+    <string name="toast_service_error_starting">Error generating monitors: </string>
+    <string name="toast_service_start">File monitor starting (this make take some time)</string>
+    <string name="toast_service_started">File monitor started # of Monitors = </string>
+    <string name="toast_service_stop">File monitor stopped.  # of Events =  </string>
+
+</resources>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FileMonitor/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/FileMonitor/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/FileMonitor/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/gen" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/FileMonitor/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar" recursive="false" />
+  </library>
+</component>

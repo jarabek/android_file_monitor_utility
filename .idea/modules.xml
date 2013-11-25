@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileMonitor/FileMonitor.iml" filepath="$PROJECT_DIR$/FileMonitor/FileMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_file_monitor_utility.iml" filepath="$PROJECT_DIR$/android_file_monitor_utility.iml" />
+    </modules>
+  </component>
+</project>
+
